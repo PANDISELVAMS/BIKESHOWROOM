@@ -173,12 +173,11 @@ a{
     background-position: left;
     display: flex;
     flex-wrap: wrap;
-    justify-content: end;
-    
+    justify-content: end;    
 }
 
 .subclass{
-padding-right:30px;
+margin: 20px;
 display: flex;
 flex-direction: column;
 justify-content: center;
