@@ -172,12 +172,10 @@ a{
     background-size: cover;
     background-position: left;
     display: flex;
-    flex-wrap: wrap;
     justify-content: end;    
 }
 
 .subclass{
-margin: 20px;
 display: flex;
 flex-direction: column;
 justify-content: center;
@@ -190,10 +188,11 @@ h4{
 
 }
 input{
-    width: 350px;
+    width: 320px;
     height: 30px;
-    padding: 16px 10px;
+    padding: 15px ;
     margin-bottom: 10px;
+    margin-right: 20px;
     border-radius: 5px;
     font-size: 15px;
 }
