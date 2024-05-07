@@ -199,6 +199,6 @@ input{
 
 @media screen and (max-width:640px) {
     input {
-        width: 280px;
+        width: 300px;
     }
 }
