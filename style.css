@@ -197,3 +197,8 @@ input{
     font-size: 15px;
 }
 
+@media screen and (max-width:640px) {
+    input {
+        width: 200px;
+    }
+}
